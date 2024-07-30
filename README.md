@@ -1,4 +1,5 @@
 Understanding the Dashboard's Purpose
+
 A dashboard designed to help local farmers track their monthly income, sales, and site visitors is a valuable tool for making informed decisions and improving their agricultural business. It serves as a centralized hub for critical data, providing insights into financial performance, sales trends, and customer engagement.
 
 Key Components of the Dashboard
